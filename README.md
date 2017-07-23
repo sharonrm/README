@@ -8,8 +8,10 @@ The Ment App redesigns what it means to be a Mentor. As soon as a user registers
 * gem install foundation-rails
 * gem install local_time
 
-run bundle install
-run rails db:create db:migrate db:seed
+run:
+
+bundle install
+rails db:create db:migrate db:seed
 
 ## Technologies Used: ##
 
@@ -47,6 +49,6 @@ https://robohash.org
 
 https://developers.google.com/places/
 
-### Heroku Link ###
+### Heroku ###
 
 https://ment-the-app.herokuapp.com/login

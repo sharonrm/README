@@ -7,7 +7,7 @@ The Ment App redesigns what it means to be a Mentor. As soon as a user registers
 “I wanted to become a web developer and I did not know where to start. Then, I found a website called MENT that really answered all my questions. Eventually, I became a NYC programmer!”
  - Anonymous
  
- “Teaching helps me to reinforce what I've learned and I'd like to go back and review on some of my old homeworks and meet students from different cohorts.”
+ “Teaching helps me to reinforce what I've learned and I'd like to go back and review some of my old homeworks and meet students from different cohorts.”
  - Anonymous
  
  “I wish I didn't suck at programming. Luckily, there are services like Ment that make me suck just a little bit less!”
@@ -21,7 +21,7 @@ The Ment App redesigns what it means to be a Mentor. As soon as a user registers
 * gem install foundation-rails
 * gem install local_time
 
-### run: ###
+### Run: ###
 
 <p> bundle install </p>
 rails db:create db:migrate db:seed

@@ -2,7 +2,7 @@
  
  Ment is a 
 
-[Imgur](http://i.imgur.com/TJpCD26.png)
+[SearchTopics](http://i.imgur.com/TJpCD26.png)
 [Imgur](http://i.imgur.com/hbCu75Q.png)
 [Imgur](http://i.imgur.com/6LLk02A.png)
 [Imgur](http://i.imgur.com/8QQSM2r.png)

@@ -10,7 +10,7 @@ The Ment App redesigns what it means to be a Mentor. As soon as a user registers
 
 run:
 
-bundle install
+<p> bundle install </p>
 rails db:create db:migrate db:seed
 
 ## Technologies Used: ##
